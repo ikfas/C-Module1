@@ -27,5 +27,3 @@ int result = max(ten_number);
 printf("%s",ten_number[0]);
 
 }
-
-  
